@@ -1,0 +1,1 @@
+Hello, my name is Adithya Rasamsetti, and in this repository are the C programs I created and handed in as part of the Fundamentals of Computers (FOC) Lab coursework. These are presented as a demonstration of my comprehension of fundamental programming concepts such as loops, conditionals, functions, and arithmetic operations using the C programming language.
